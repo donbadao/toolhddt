@@ -25,4 +25,9 @@
 			<LinkUpdate>https://github.com/donbadao/toolhddt/blob/master/sqliteadmin.zip?raw=true</LinkUpdate>
 			<Info>Download 01 file nặng 2.3mb</Info>
 	  </Version>
+      <Version>
+			<CurrentVerion>1.5</CurrentVerion>
+			<LinkUpdate>update.vnpt-bhxh.vn/24072020Update.zip</LinkUpdate>
+			<Info>Link download github</Info>
+	  </Version>
 </Versions>
